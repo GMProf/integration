@@ -40,11 +40,13 @@ Essas foram as tecnologias utilizadas no projeto :D
 
 ![Planilha](https://github.com/GMProf/integration/blob/master/public/planilha.png)
 
-* Acesse a [planilha de contatos](https://docs.google.com/spreadsheets/d/14keJHdZNRUIFDfsbCdmdMsWte98cSEqxaFhthAWpzi4/edit#gid=0)
+* Acesse a [planilha de contatos](https://docs.google.com/spreadsheets/d/14keJHdZNRUIFDfsbCdmdMsWte98cSEqxaFhthAWpzi4/edit#gid=0) para adiconar novos contatos.
 
 ### 2 - Contatos adicionados (apenas os contatos novos e com email corporativo)
 
 ![Contatos salvos no Hubspot](https://github.com/GMProf/integration/blob/master/public/contacts-save.png)
+
+* Acesse no Insomnia http://localhost:3001/hubspot para visualizar os contatos do Hubspot.
 
 ### 3 - Teste para envio de dados usando o Insomnia
 
