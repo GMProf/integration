@@ -55,12 +55,12 @@ app.get("/get-rows", async (req, res) => { //criando o getrows para buscar as li
 })
 
 app.get("/hubspot", async (req, res) => {
-    const data = getContactHubSpot()
+    const data = await getContactHubSpot()
     res.json({ data })
 })
 
 app.get("/sheets", async (req, res) => {
-    const data = getValuesGoogleSheet()
+    const data = await getValuesGoogleSheet()
     res.json({ data })
 })
 
