@@ -40,6 +40,8 @@ Essas foram as tecnologias utilizadas no projeto :D
 
 ![Planilha](https://github.com/GMProf/integration/blob/main/public/planilha.png)
 
+- Acesse a [planilha de contatos] (https://docs.google.com/spreadsheets/d/14keJHdZNRUIFDfsbCdmdMsWte98cSEqxaFhthAWpzi4/edit#gid=0)
+
 ### 2 - Contatos adicionados (apenas os contatos novos e com email corporativo)
 
 ![Contatos salvos no Hubspot](https://github.com/GMProf/integration/blob/main/public/contacts-save.png)
